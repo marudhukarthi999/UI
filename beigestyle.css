@@ -730,9 +730,83 @@ border-radius:25px;
 		color: white;
 	}
 
+	.tiny img {
+		width: 260px;
+		height: 200px;
+	}
+	.cont2 h1 {
+		font-family: 'Poppins', sans-serif;
+		font-size: 40px;
+	}
+	.wave2 {
+		/* margin-top: 40px; */
+		text-align: center;
+		float: right;
+		padding: 3px;
+		padding-left: 50px;
+		background-color: #432aa5f0;
+		border-radius: 25px;
+		border: 1px solid#432aa5f0;
+		box-shadow: 2px 3px;
+	}
+	.wave2 h5 {
+		padding: 7px;
+		background-color: white;
+		width: 100px;
+		color: black;
+		font-size: 17px;
+		font-family: 'Poppins', sans-serif;
+		border-radius: 25px;
+		border: 1px solid white;
+	}
 
+.tiny3 img{
+	width:250px;
+	height:300px;
+}
 
+.cont3 h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 35px;
+    margin-top: 30px;
+}
 
+.meet3 {
+    padding: 50px;
+    background-color: #d1d1cc;
+    height: 850px;
+}
+
+.footerbox {
+    display: flex;
+    padding: 20px;
+    padding-bottom: 550px;
+    background-color: #2c2424;
+    /* flex-direction: column; */
+    justify-self: start;
+    /* flex: 50%; */
+    height: 500px;
+    flex-direction: column;
+}
+.foot4 {
+    padding: 20px;
+    height: 240px;
+    position: relative;
+    top: 250px;
+     left: -0px; 
+}
+.foot2 {
+    padding: 20px;
+    position: relative;
+    top: -220px;
+}
+.foot3 {
+    padding: 20px;
+    height: 240px;
+    position: relative;
+	top: 20px;
+    left: -0px;
+}
 
 
 
