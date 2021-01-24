@@ -664,6 +664,7 @@ border-radius:25px;
 
 
   }
+
   @media all and (min-width: 310px) and (max-width: 419px) { 
 
 
@@ -685,6 +686,7 @@ border-radius:25px;
 		transition: transform 0.2s;
 		height: 300px;
 		margin-left: 30px;
+		margin-bottom: 40px;
 	}
 	.sepi {
 		height: 50px;
@@ -696,10 +698,37 @@ border-radius:25px;
 	}
 
 
+	.t2 {
+		padding: 25px;
+		width: 160px;
+		background-color: white;
+		text-align: center;
+		border: 1px solid white;
+		border-radius: 20px;
+		background-image: linear-gradient(#150086, #0b0b08);
+		transition: transform 0.2s;
+		margin-left: 30px;
+		margin-bottom: 40px;
+	}
 
 
-
-
+	.t3 {
+		padding: 25px;
+		margin-left: 30px;
+		width: 160px;
+		background-color: white;
+		text-align: center;
+		border: 1px solid white;
+		border-radius: 20px;
+		background-image: linear-gradient(#150086, #0b0b08);
+		transition: transform 0.2s;
+	}
+	.top h4 {
+		font-size: 15px;
+		font-family: 'Poppins', sans-serif;
+		margin-bottom: 20px;
+		color: white;
+	}
 
 
 
